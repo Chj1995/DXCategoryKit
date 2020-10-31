@@ -32,7 +32,6 @@
 #import "UICollectionViewCell+ATKit.h"
 #import "UIColor+PPAddition.h"
 #import "UIImage+XKEvent.h"
-#import "UIImageView+FMLoad.h"
 #import "UIImageView+XKAnchor.h"
 #import "UILabel+XKInit.h"
 #import "UIScreen+PPAddition.h"
