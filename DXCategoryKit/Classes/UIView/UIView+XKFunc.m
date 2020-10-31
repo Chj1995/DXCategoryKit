@@ -7,7 +7,7 @@
 //
 
 #import "UIView+XKFunc.h"
-#import "UIView+YYAdd.h"
+#import <YYKit/YYKit.h>
 
 @implementation UIView (XKFunc)
 

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DXCategoryKit'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A short description of DXCategoryKit.'
 
 # This description is used to generate tags and improve search results.
@@ -58,6 +58,7 @@ TODO: Add long description of the pod here.
   end
   s.subspec 'UICollectionViewCell' do |ss|
     ss.source_files = 'DXCategoryKit/Classes/UICollectionViewCell/*'
+    ss.dependency 'DXCategoryKit/UIView'
   end
   s.subspec 'UIColor' do |ss|
     ss.source_files = 'DXCategoryKit/Classes/UIColor/*'
