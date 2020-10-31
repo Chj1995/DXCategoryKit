@@ -213,6 +213,7 @@ PODS:
 DEPENDENCIES:
   - AFNetworking
   - DXCategoryKit (from `../`)
+  - DXConstantsKit
   - Masonry
   - MBProgressHUD
   - MJRefresh
@@ -244,6 +245,6 @@ SPEC CHECKSUMS:
   SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
   YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
-PODFILE CHECKSUM: 9962c3de612c909d4532b5b42f9bc14b3f8039ce
+PODFILE CHECKSUM: b63c9784913534abead8bd8a12c480a8579305a1
 
 COCOAPODS: 1.9.3

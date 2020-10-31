@@ -13,6 +13,7 @@ target 'DXCategoryKit_Example' do
   pod 'MBProgressHUD'
   pod 'YYKit'
   pod 'MJRefresh'
+  pod 'DXConstantsKit'
 
 
   target 'DXCategoryKit_Tests' do
