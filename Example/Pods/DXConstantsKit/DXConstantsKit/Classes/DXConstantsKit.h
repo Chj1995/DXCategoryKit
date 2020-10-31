@@ -5,8 +5,8 @@
 //  Created by 陈辉金 on 2020/10/30.
 //
 
-#ifndef ConstantsKitHeader_h
-#define ConstantsKitHeader_h
+#ifndef DXConstantsKit_h
+#define DXConstantsKit_h
 
 #import "XKColor.h"
 #import "XK_FMColor.h"
@@ -22,4 +22,4 @@
 #import "LiveDefine.h"
 #import "XKEnum.h"
 
-#endif /* ConstantsKitHeader_h */
+#endif /* DXConstantsKit_h */

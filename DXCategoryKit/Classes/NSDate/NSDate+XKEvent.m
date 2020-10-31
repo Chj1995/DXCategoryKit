@@ -7,7 +7,7 @@
 //
 
 #import "NSDate+XKEvent.h"
-#import <DXConstantsKit/ConstantsKitHeader.h>
+#import <DXConstantsKit/DXConstantsKit.h>
 NSString * const kFORMATTERYMD = @"yyyy-MM-dd";
 NSString * const kFORMATTERYMDH = @"yyyy-MM-dd HH";
 NSString * const kFORMATTERYMDHm = @"yyyy-MM-dd HH:mm";

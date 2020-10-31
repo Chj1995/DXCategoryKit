@@ -1,6 +1,6 @@
 {
   "name": "DXCategoryKit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A short description of DXCategoryKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/Chj1995/DXCategoryKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/Chj1995/DXCategoryKit.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
@@ -74,7 +74,12 @@
     },
     {
       "name": "UICollectionViewCell",
-      "source_files": "DXCategoryKit/Classes/UICollectionViewCell/*"
+      "source_files": "DXCategoryKit/Classes/UICollectionViewCell/*",
+      "dependencies": {
+        "DXCategoryKit/UIView": [
+
+        ]
+      }
     },
     {
       "name": "UIColor",

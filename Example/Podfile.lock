@@ -14,191 +14,192 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
-  - DXCategoryKit (0.1.1):
-    - DXCategoryKit/MBProgressHUD (= 0.1.1)
-    - DXCategoryKit/NSArray (= 0.1.1)
-    - DXCategoryKit/NSData (= 0.1.1)
-    - DXCategoryKit/NSDate (= 0.1.1)
-    - DXCategoryKit/NSObject (= 0.1.1)
-    - DXCategoryKit/NSString (= 0.1.1)
-    - DXCategoryKit/NSURL (= 0.1.1)
-    - DXCategoryKit/UIButton (= 0.1.1)
-    - DXCategoryKit/UICollectionViewCell (= 0.1.1)
-    - DXCategoryKit/UIColor (= 0.1.1)
-    - DXCategoryKit/UIImage (= 0.1.1)
-    - DXCategoryKit/UIImageView (= 0.1.1)
-    - DXCategoryKit/UILabel (= 0.1.1)
-    - DXCategoryKit/UIScreen (= 0.1.1)
-    - DXCategoryKit/UIScrollView (= 0.1.1)
-    - DXCategoryKit/UITableViewCell (= 0.1.1)
-    - DXCategoryKit/UITapGestureRecognizer (= 0.1.1)
-    - DXCategoryKit/UITextView (= 0.1.1)
-    - DXCategoryKit/UIView (= 0.1.1)
-    - DXCategoryKit/UIViewController (= 0.1.1)
+  - DXCategoryKit (0.1.2):
+    - DXCategoryKit/MBProgressHUD (= 0.1.2)
+    - DXCategoryKit/NSArray (= 0.1.2)
+    - DXCategoryKit/NSData (= 0.1.2)
+    - DXCategoryKit/NSDate (= 0.1.2)
+    - DXCategoryKit/NSObject (= 0.1.2)
+    - DXCategoryKit/NSString (= 0.1.2)
+    - DXCategoryKit/NSURL (= 0.1.2)
+    - DXCategoryKit/UIButton (= 0.1.2)
+    - DXCategoryKit/UICollectionViewCell (= 0.1.2)
+    - DXCategoryKit/UIColor (= 0.1.2)
+    - DXCategoryKit/UIImage (= 0.1.2)
+    - DXCategoryKit/UIImageView (= 0.1.2)
+    - DXCategoryKit/UILabel (= 0.1.2)
+    - DXCategoryKit/UIScreen (= 0.1.2)
+    - DXCategoryKit/UIScrollView (= 0.1.2)
+    - DXCategoryKit/UITableViewCell (= 0.1.2)
+    - DXCategoryKit/UITapGestureRecognizer (= 0.1.2)
+    - DXCategoryKit/UITextView (= 0.1.2)
+    - DXCategoryKit/UIView (= 0.1.2)
+    - DXCategoryKit/UIViewController (= 0.1.2)
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/MBProgressHUD (0.1.1):
+  - DXCategoryKit/MBProgressHUD (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/NSArray (0.1.1):
+  - DXCategoryKit/NSArray (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/NSData (0.1.1):
+  - DXCategoryKit/NSData (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/NSDate (0.1.1):
+  - DXCategoryKit/NSDate (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/NSObject (0.1.1):
+  - DXCategoryKit/NSObject (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/NSString (0.1.1):
+  - DXCategoryKit/NSString (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/NSURL (0.1.1):
+  - DXCategoryKit/NSURL (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UIButton (0.1.1):
+  - DXCategoryKit/UIButton (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UICollectionViewCell (0.1.1):
+  - DXCategoryKit/UICollectionViewCell (0.1.2):
+    - DXCategoryKit/UIView
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UIColor (0.1.1):
+  - DXCategoryKit/UIColor (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UIImage (0.1.1):
+  - DXCategoryKit/UIImage (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UIImageView (0.1.1):
+  - DXCategoryKit/UIImageView (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UILabel (0.1.1):
+  - DXCategoryKit/UILabel (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UIScreen (0.1.1):
+  - DXCategoryKit/UIScreen (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UIScrollView (0.1.1):
+  - DXCategoryKit/UIScrollView (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UITableViewCell (0.1.1):
+  - DXCategoryKit/UITableViewCell (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UITapGestureRecognizer (0.1.1):
+  - DXCategoryKit/UITapGestureRecognizer (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UITextView (0.1.1):
+  - DXCategoryKit/UITextView (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UIView (0.1.1):
+  - DXCategoryKit/UIView (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXCategoryKit/UIViewController (0.1.1):
+  - DXCategoryKit/UIViewController (0.1.2):
     - DXConstantsKit
     - Masonry
     - MBProgressHUD
     - MJRefresh
     - SDWebImage
     - YYKit
-  - DXConstantsKit (0.1.2):
-    - DXConstantsKit/Color (= 0.1.2)
-    - DXConstantsKit/Font (= 0.1.2)
-    - DXConstantsKit/Frame (= 0.1.2)
-    - DXConstantsKit/Other (= 0.1.2)
-    - DXConstantsKit/Sandbox (= 0.1.2)
-    - DXConstantsKit/Service (= 0.1.2)
-    - DXConstantsKit/Tool (= 0.1.2)
-    - DXConstantsKit/Type (= 0.1.2)
-  - DXConstantsKit/Color (0.1.2)
-  - DXConstantsKit/Font (0.1.2):
+  - DXConstantsKit (0.1.4):
+    - DXConstantsKit/Color (= 0.1.4)
+    - DXConstantsKit/Font (= 0.1.4)
+    - DXConstantsKit/Frame (= 0.1.4)
+    - DXConstantsKit/Other (= 0.1.4)
+    - DXConstantsKit/Sandbox (= 0.1.4)
+    - DXConstantsKit/Service (= 0.1.4)
+    - DXConstantsKit/Tool (= 0.1.4)
+    - DXConstantsKit/Type (= 0.1.4)
+  - DXConstantsKit/Color (0.1.4)
+  - DXConstantsKit/Font (0.1.4):
     - DXConstantsKit/Other
-  - DXConstantsKit/Frame (0.1.2)
-  - DXConstantsKit/Other (0.1.2)
-  - DXConstantsKit/Sandbox (0.1.2)
-  - DXConstantsKit/Service (0.1.2)
-  - DXConstantsKit/Tool (0.1.2)
-  - DXConstantsKit/Type (0.1.2)
+  - DXConstantsKit/Frame (0.1.4)
+  - DXConstantsKit/Other (0.1.4)
+  - DXConstantsKit/Sandbox (0.1.4)
+  - DXConstantsKit/Service (0.1.4)
+  - DXConstantsKit/Tool (0.1.4)
+  - DXConstantsKit/Type (0.1.4)
   - Masonry (1.1.0)
   - MBProgressHUD (1.2.0)
   - MJRefresh (3.5.0)
@@ -212,7 +213,6 @@ PODS:
 DEPENDENCIES:
   - AFNetworking
   - DXCategoryKit (from `../`)
-  - DXConstantsKit
   - Masonry
   - MBProgressHUD
   - MJRefresh
@@ -236,14 +236,14 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  DXCategoryKit: f3c1e69d260de66149f8f947d7c98a17d7fac54b
-  DXConstantsKit: 04ee3ed1218333e72b1ee6ea5f312fcf5d217d4e
+  DXCategoryKit: 5ca7e1813b6f53592a9611c08d339a3e1887f738
+  DXConstantsKit: 7debf6d3cd27662fa68b0901af0b581841dbadff
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
   SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
   YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
-PODFILE CHECKSUM: 2aff5ef27df1a0e41039c3cd99f47321a3c96354
+PODFILE CHECKSUM: 53be229f0ed109e5f2284a80e088f64201a14a68
 
 COCOAPODS: 1.9.3

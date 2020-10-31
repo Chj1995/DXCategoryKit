@@ -8,7 +8,7 @@
 
 #import "NSObject+XKHUD.h"
 #import "MBProgressHUD.h"
-#import <DXConstantsKit/ConstantsKitHeader.h>
+#import <DXConstantsKit/DXConstantsKit.h>
 #import <YYKit/YYKit.h>
 
 @implementation NSObject (XKHUD)
