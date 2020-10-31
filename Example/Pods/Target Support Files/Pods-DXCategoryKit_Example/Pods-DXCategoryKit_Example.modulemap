@@ -1,0 +1,6 @@
+framework module Pods_DXCategoryKit_Example {
+  umbrella header "Pods-DXCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

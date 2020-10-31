@@ -1,0 +1,124 @@
+{
+  "name": "DXCategoryKit",
+  "version": "0.1.1",
+  "summary": "A short description of DXCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Chj1995/DXCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chj1995": "chenhj@actumtech.com"
+  },
+  "source": {
+    "git": "https://github.com/Chj1995/DXCategoryKit.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DXCategoryKit/Classes/DXCategoryKit.h",
+  "dependencies": {
+    "DXConstantsKit": [
+
+    ],
+    "MJRefresh": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "YYKit": [
+
+    ],
+    "MBProgressHUD": [
+
+    ],
+    "Masonry": [
+
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "MBProgressHUD",
+      "source_files": "DXCategoryKit/Classes/MBProgressHUD/*"
+    },
+    {
+      "name": "NSArray",
+      "source_files": "DXCategoryKit/Classes/NSArray/*"
+    },
+    {
+      "name": "NSData",
+      "source_files": "DXCategoryKit/Classes/NSData/*"
+    },
+    {
+      "name": "NSDate",
+      "source_files": "DXCategoryKit/Classes/NSDate/*"
+    },
+    {
+      "name": "NSObject",
+      "source_files": "DXCategoryKit/Classes/NSObject/*"
+    },
+    {
+      "name": "NSString",
+      "source_files": "DXCategoryKit/Classes/NSString/*"
+    },
+    {
+      "name": "NSURL",
+      "source_files": "DXCategoryKit/Classes/NSURL/*"
+    },
+    {
+      "name": "UIButton",
+      "source_files": "DXCategoryKit/Classes/UIButton/*"
+    },
+    {
+      "name": "UICollectionViewCell",
+      "source_files": "DXCategoryKit/Classes/UICollectionViewCell/*"
+    },
+    {
+      "name": "UIColor",
+      "source_files": "DXCategoryKit/Classes/UIColor/*"
+    },
+    {
+      "name": "UIImage",
+      "source_files": "DXCategoryKit/Classes/UIImage/*"
+    },
+    {
+      "name": "UIImageView",
+      "source_files": "DXCategoryKit/Classes/UIImageView/*"
+    },
+    {
+      "name": "UILabel",
+      "source_files": "DXCategoryKit/Classes/UILabel/*"
+    },
+    {
+      "name": "UIScreen",
+      "source_files": "DXCategoryKit/Classes/UIScreen/*"
+    },
+    {
+      "name": "UIScrollView",
+      "source_files": "DXCategoryKit/Classes/UIScrollView/*"
+    },
+    {
+      "name": "UITableViewCell",
+      "source_files": "DXCategoryKit/Classes/UITableViewCell/*"
+    },
+    {
+      "name": "UITapGestureRecognizer",
+      "source_files": "DXCategoryKit/Classes/UITapGestureRecognizer/*"
+    },
+    {
+      "name": "UITextView",
+      "source_files": "DXCategoryKit/Classes/UITextView/*"
+    },
+    {
+      "name": "UIView",
+      "source_files": "DXCategoryKit/Classes/UIView/*"
+    },
+    {
+      "name": "UIViewController",
+      "source_files": "DXCategoryKit/Classes/UIViewController/*"
+    }
+  ]
+}
